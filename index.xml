@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog de Damien List</title>
+    <link>https://damien-list.github.io/</link>
+    <description>Recent content on Blog de Damien List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 07 Oct 2017 10:32:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://damien-list.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paris Web 2017 - 1er jour</title>
+      <link>https://damien-list.github.io/posts/paris-web-2017-1/</link>
+      <pubDate>Sat, 07 Oct 2017 10:32:55 +0200</pubDate>
+      
+      <guid>https://damien-list.github.io/posts/paris-web-2017-1/</guid>
+      <description>Pour ma première participation à Paris Web, j&amp;rsquo;ai décidé 2 choses : la première de mettre en place un blog, parce que pourquoi ne pas avoir 15 ans de retard sur tout le monde ? Et ça me permet en même temps d&amp;rsquo;enfin essayer Hugo. La seconde de faire un retour sur cet évènement un peu à part dans le monde des conférences tech.
+J&amp;rsquo;ai tenté quelquechose pour la prise de note, à savoir suivre la conférence sans prendre de notes (?</description>
+    </item>
+    
+  </channel>
+</rss>
